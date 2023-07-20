@@ -5,9 +5,3 @@
 3) Uses redux for global state variables
 4) Uses a php SLIM3 REST services with to connect to mysql database
 5) Used by tangokompaniet.com
-# tangokompaniet
-# tangokompaniet
-# tangokompaniet
-# tangokompaniet
-# tangokompaniet
-# tk
